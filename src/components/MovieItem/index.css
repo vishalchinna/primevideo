@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+}
+.close-button {
+  height: 20px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
